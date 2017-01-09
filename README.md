@@ -1,9 +1,8 @@
-Maven Demo
-==========
+Java Travis-CI Demo
+===================
 
-A very simple maven project demo.
+A Java project with travis-CI demo.
 
 ```
 mvn clean install
 ```
-
