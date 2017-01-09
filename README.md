@@ -10,3 +10,5 @@ We don't need to specify settings for maven project, since travis will run it by
 ```
 mvn test -B
 ```
+
+Status: ![CI](https://travis-ci.org/java-demos/java-travis-demo.svg?branch=master)
