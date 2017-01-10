@@ -9,7 +9,7 @@ public class HelloTest {
     @Test
     public void shouldGreetingWithPassingName() throws Exception {
         Hello hello = new Hello();
-        assertEquals(hello.greeting("Freewind"), "Hello, Freewind!");
+        assertEquals("Hello, Freewind!", hello.greeting("Freewind"));
     }
 
 }
